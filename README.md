@@ -40,4 +40,4 @@ Actively maintained.
 
 ## Links
 
-- [Online Course](https://www.trainindata.com/p/forecasting-machine-learning)
+- [Online Course](https://www.trainindata.com/p/forecasting-with-machine-learning)

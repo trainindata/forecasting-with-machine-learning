@@ -1,4 +1,4 @@
-﻿![PythonVersion](https://img.shields.io/badge/python-3.7%20|3.8%20|%203.9%20|%203.10-success)
+﻿![PythonVersion](https://img.shields.io/badge/python-3.9%20%20|%203.10%20|%203.11%20|3.12%20-success)
 [![License https://github.com/trainindata/forecasting-with-machine-learning/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/trainindata/forecasting-with-machine-learning/blob/master/LICENSE)
 [![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 

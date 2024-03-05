@@ -6,7 +6,7 @@
 
 Code repository for the online course [Forecasting with Machine Learning](https://www.trainindata.com/p/forecasting-with-machine-learning)
 
-**Estimated Course Launch: March, 2024**
+**Course Launch: March, 2024**
 
 Actively maintained.
 

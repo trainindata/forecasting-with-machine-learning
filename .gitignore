@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# datasets
+*.csv
+*.zip
+*.data
+*.txt
+*.labels
+
+# files not to put in repo
+Make-toy-finance-dataset.ipynb
+tbf

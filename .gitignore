@@ -23,7 +23,6 @@ venv.bak/
 *.csv
 *.zip
 *.data
-*.txt
 *.labels
 
 # files not to put in repo

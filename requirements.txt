@@ -1,7 +1,9 @@
-feature-engine>=1.8.2
-matplotlib>=3.9.2
-numpy>=2.1.2
-pandas>=2.2.3
-scikit-learn>=1.5.2
+feature-engine>=1.9.4
+lightgbm>=4.7.0
+matplotlib>=3.11.2
+numpy>=2.5.4
+pandas>=3.0
+scikit-learn>=1.9.1
 seaborn>=0.13.2
-skforecast>=0.14.0
+skforecast>=0.26.0
+sktime>=1.2.0

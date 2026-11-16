@@ -9,7 +9,9 @@ Learn how to forecast time series with machine learning models: from turning tim
 This repository contains the practical notebooks for the **[Forecasting with Machine Learning](https://www.trainindata.com/p/forecasting-with-machine-learning)** course. The examples use pandas 3, scikit-learn, Feature-engine, and skforecast.
 
 **Released:** March 2024
+
 **Last updated**: Nov 2026
+
 **Status:** Actively maintained
 
 [<img src="./FWML-Logo.png" width="248" alt="Forecasting with Machine Learning">](https://www.trainindata.com/p/forecasting-with-machine-learning)
